@@ -22,3 +22,10 @@ Java Collections Framework
 HashMap Data Structure
 CRUD Operations
 User Input Handling using Scanner
+
+# Features Add Product
+Users can add a new product by providing:
+Product Name
+Product Price
+Product Rating
+The product information is stored inside a HashMap.
